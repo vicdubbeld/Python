@@ -21,6 +21,7 @@ Returns
 Hi Alice
 Done
 ```
+Elif is the same thing as Else If
 
 ```
 ```
